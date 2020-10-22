@@ -1,0 +1,7 @@
+data/com.example.GtkApplication.desktop.in
+data/com.example.GtkApplication.appdata.xml.in
+data/com.example.GtkApplication.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
