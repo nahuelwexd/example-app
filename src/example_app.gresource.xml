@@ -2,6 +2,6 @@
 <gresources>
   <gresource prefix="/com/example/GtkApplication">
     <file>window.ui</file>
-    <file alias="icons/error-symbolic.svg">../data/icons/error-symbolic.svg</file>
+    <file alias="icons/scalable/actions/error-symbolic.svg">../data/icons/error-symbolic.svg</file>
   </gresource>
 </gresources>
